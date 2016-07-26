@@ -1,15 +1,14 @@
 {
 	"alarms":[
 		{
-			"active": "False",
+			"active": "True",
 			"type":"pushbullet",
-			"api_key":""
+			"api_key":"o.WB2YPVOrfbB8WtHOVWlf7Y8BidAlDJQE"
 		},
 		{
-			"active": "False",
-			"type":"slack",
-			"api_key":"",
-			"channel":"#general"
+			"active": "True",
+			"type":"pushbullet",
+			"api_key":"o.e2X8BbObzJFVYY2XBwg1sryqOCfNgpZO"
 		},
 		{
 			"active": "False",
